@@ -1,7 +1,7 @@
 CIS Controls
 ===============
 
-Center for Internet Security is a great resource to secure your IT Infrastruce and deploy practical compliance. 
+Center for Internet Security is a great resource to secure your IT Infrastructure and deploy practical compliance. 
 
 The 18 CIS Critical Security Controls
 --------------------------------------
